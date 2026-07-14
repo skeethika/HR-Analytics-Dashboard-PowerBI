@@ -37,6 +37,18 @@ If you were to improve this dashboard, what additional features would you add?
 -<a href="https://github.com/skeethika/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20PROJECT.pdf">dashboaed</a>
 
 ##Dashboard
+<img width="960" height="540" alt="Screenshot 2026-07-14 172117" src="https://github.com/user-attachments/assets/d84dbea9-e1e1-4928-9586-6bc5d959d13f" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-14 172154" src="https://github.com/user-attachments/assets/c1fb5672-17a7-4a8a-b964-60c26d85b883" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-14 172158" src="https://github.com/user-attachments/assets/052b650e-a5f0-4f21-a009-c32513e3267e" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-14 172203" src="https://github.com/user-attachments/assets/411baf51-1d1b-4055-a3c4-19b7b525a19b" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-14 172206" src="https://github.com/user-attachments/assets/e2904ade-6477-412c-98d9-1fc361db807a" />
+
+<img width="960" height="540" alt="Screenshot 2026-07-14 172211" src="https://github.com/user-attachments/assets/e9921763-a7e3-4b4b-8efa-3b0e3e3a203f" />
+
 <img width="960" height="540" alt="Screenshot 2026-07-14 172232" src="https://github.com/user-attachments/assets/0eb6cc25-7bbb-487b-8393-4fe1ff9b9279" />
 
 
