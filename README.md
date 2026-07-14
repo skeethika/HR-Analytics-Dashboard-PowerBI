@@ -31,9 +31,14 @@ What business decisions can HR make using this dashboard?
 What challenges did you face while creating the project?
 If you were to improve this dashboard, what additional features would you add?
 
-##Dashboard
+##Dashboard interaction
+
 <a href="https://github.com/skeethika/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20PROJECT%20(1).pbix">view dashboard</a>
 -<a href="https://github.com/skeethika/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20PROJECT.pdf">dashboaed</a>
+
+##Dashboard
+<img width="960" height="540" alt="Screenshot 2026-07-14 172232" src="https://github.com/user-attachments/assets/0eb6cc25-7bbb-487b-8393-4fe1ff9b9279" />
+
 
 ##Process
 
