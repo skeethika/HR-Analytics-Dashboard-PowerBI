@@ -33,6 +33,7 @@ If you were to improve this dashboard, what additional features would you add?
 
 ##Dashboard
 <a href="https://github.com/skeethika/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20PROJECT%20(1).pbix">view dashboard</a>
+-<a href="https://github.com/skeethika/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20PROJECT.pdf">dashboaed</a>
 
 ##Process
 
